@@ -23,7 +23,7 @@
 
 <h1 align="center"> 
   Hey stranger 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://github.com/TruerxDofc/TruerxDofc/blob/images/giphy.gif" width="40px" style="vertical-align: middle;"/>
 </h1>
 
 
