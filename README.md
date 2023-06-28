@@ -29,5 +29,5 @@
 
 <!-- GIF cat -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="400" height="200"/>
+  <img src="https://github.com/TruerxDofc/TruerxDofc/blob/images/cat.gif" width="400" height="200"/>
 </div>
