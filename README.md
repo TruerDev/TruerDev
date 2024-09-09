@@ -1,4 +1,4 @@
-<!-- social QR-codes -->
+<!-- social QR-codes, btw here is my linktree: https://linktr.ee/truer_xd -->
 <div id="header" align="center">
   <img src="https://github.com/TruerxDofc/TruerxDofc/blob/images/gh_social.png" width="600"/>
 </div>
