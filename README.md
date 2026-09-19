@@ -1,33 +1,14 @@
-<!-- social QR-codes, btw here is my linktree: https://linktr.ee/truer_xd -->
-<div id="header" align="center">
-  <img src="https://github.com/TruerxDofc/TruerxDofc/blob/images/gh_social.png" width="600"/>
-</div>
+### Klim Sarakeev
 
-<!-- social links -->
-<div id="badges" align = "center">
-  <a href="https://t.me/truer_xD">
-    <img src="https://img.shields.io/badge/Telegram-%234F9DE5?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://vk.com/truerxd">
-    <img src="https://img.shields.io/badge/VK-%230077FF?style=flat-square&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
-  <a href="https://github.com/TruerxDofc">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
+R&D / Backend Engineer: automation, data systems and LLM integration.
+Based in Armenia (GMT+4), open to relocation and remote work.
 
-<!-- guests counter -->
-<div id="badges" align = "center">
-  <img src="https://komarev.com/ghpvc/?username=TruerxDofc&style=flat-square&color=blue" alt=""/>
-</div>
+**What I build at work** (closed source):
 
-<!-- Greeting -->
-<h1 align="center"> 
-  Hey stranger 
-  <img src="https://github.com/TruerxDofc/TruerxDofc/blob/images/giphy.gif" width="40px" style="vertical-align: middle;"/>
-</h1>
+- **Multi-agent LLM systems.** A 7-agent orchestration layer on OpenAI and Anthropic models with WebSocket streaming, step-execution handlers and LLM-as-judge eval pipelines.
+- **Browser automation at scale.** An internal platform built on Puppeteer and third-party browser integrations: normalized PostgreSQL schema, background jobs, bidirectional sync, 93+ tests.
+- **Fraud-detection analytics.** A Manifest V3 Chrome extension, a Fastify backend and a React dashboard with a logistic-regression predictor and a Claude / GPT / Gemini comparison, shipped in six sprints.
 
-<!-- GIF cat -->
-<div id="header" align="center">
-  <img src="https://github.com/TruerxDofc/TruerxDofc/blob/images/cat.gif" width="400" height="200"/>
-</div>
+**Stack:** TypeScript · Node.js · Python · PostgreSQL · Redis / BullMQ · Fastify · React / Next.js · Puppeteer · Claude & OpenAI APIs · GitHub Actions
+
+**Side project:** [RepoRoast](https://github.com/TruerDev/RepoRoast), AI code review as punishment: paste a GitHub repo, get a sarcastic but technically accurate roast. [Live demo](https://truer-repo-roast.vercel.app)
